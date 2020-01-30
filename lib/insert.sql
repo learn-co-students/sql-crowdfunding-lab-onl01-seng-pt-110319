@@ -32,16 +32,16 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wood", "Carpentry", 900, "01/02/2020", "16,06/2020");
 
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
-INSERT INTO pledges (amount, user_id, project_id) VALUES ()
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 1, 20);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 4, 9);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (500, 2, 25);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 3, 19);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (75, 5, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (80, 7, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (30, 7, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (30, 8, 30);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (260, 9, 29);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 10, 28);
 INSERT INTO pledges (amount, user_id, project_id) VALUES ()
 INSERT INTO pledges (amount, user_id, project_id) VALUES ()
 INSERT INTO pledges (amount, user_id, project_id) VALUES ()
